@@ -1,0 +1,4420 @@
+{
+    "$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+    "file_info": {
+        "authors": [
+            "palmtopangie"
+        ],
+        "description": "ETF2L Cheating Bans list converted for TF2 Bot Detector",
+        "title": "ETF2L Cheating Bans",
+        "update_url": "https://raw.githubusercontent.com/palmtopangie/TF2-comp-bans/main/bans/playerlist.etf2lbans.json"
+    },
+    "players": [
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "perfect",
+                "time": 1784548920
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1473595211]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mai",
+                "time": 1782770760
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (Mirror)"
+            ],
+            "steamid": "[U:1:874295988]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "majk",
+                "time": 1781533800
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1102777572]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Pr1me",
+                "time": 1774704840
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:434548833]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Swag",
+                "time": 1774218120
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (Mirror)"
+            ],
+            "steamid": "[U:1:350184216]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "depre??ed",
+                "time": 1769355900
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (Second time)"
+            ],
+            "steamid": "[U:1:1462707839]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Lebron James",
+                "time": 1769355780
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1122882854]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "tenshi",
+                "time": 1769194500
+            },
+            "proof": [
+                "ETF2L Ban: Promoting cheating services during a match"
+            ],
+            "steamid": "[U:1:89356918]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Big Eye Guy",
+                "time": 1769018760
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1073954360]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "fetall",
+                "time": 1763851020
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1478222741]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "bugged",
+                "time": 1763243820
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:380501652]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Dapper Pro",
+                "time": 1762535760
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1217363846]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "halo",
+                "time": 1758491880
+            },
+            "proof": [
+                "ETF2L Ban: Cheating/Alt Account"
+            ],
+            "steamid": "[U:1:1903758744]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "M3ndo",
+                "time": 1758222120
+            },
+            "proof": [
+                "ETF2L Ban: Cheating/Assisting in Account Sharing/League Ban Evasion (mirror)"
+            ],
+            "steamid": "[U:1:253563904]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "HURMA",
+                "time": 1755847680
+            },
+            "proof": [
+                "ETF2L Ban: Alt Account/Multiple Cheating Offences"
+            ],
+            "steamid": "[U:1:104059874]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Morcubus",
+                "time": 1754931540
+            },
+            "proof": [
+                "ETF2L Ban: Multiple Cheating Offences"
+            ],
+            "steamid": "[U:1:1199049224]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dicksauce",
+                "time": 1754341020
+            },
+            "proof": [
+                "ETF2L Ban: Promoting cheating services during a match"
+            ],
+            "steamid": "[U:1:87005070]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mae",
+                "time": 1753907340
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:908996199]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "multiflex",
+                "time": 1753728840
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:89373591]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Happy",
+                "time": 1752792300
+            },
+            "proof": [
+                "ETF2L Ban: Cheating/Alting (mirror)"
+            ],
+            "steamid": "[U:1:35573103]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "96",
+                "time": 1752336300
+            },
+            "proof": [
+                "ETF2L Ban: Continued Cheating"
+            ],
+            "steamid": "[U:1:427389270]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Avenue",
+                "time": 1751235780
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:489408108]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "FAP",
+                "time": 1750890420
+            },
+            "proof": [
+                "ETF2L Ban: Continued Cheating (mirror)"
+            ],
+            "steamid": "[U:1:1124194565]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Rowan",
+                "time": 1750890240
+            },
+            "proof": [
+                "ETF2L Ban: Cheating/Match Disruption"
+            ],
+            "steamid": "[U:1:1051130653]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Diego",
+                "time": 1750349160
+            },
+            "proof": [
+                "ETF2L Ban: Continued Cheating (mirror)"
+            ],
+            "steamid": "[U:1:1895043878]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Yeezy",
+                "time": 1750348800
+            },
+            "proof": [
+                "ETF2L Ban: Continued Cheating (mirror)"
+            ],
+            "steamid": "[U:1:1162988647]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "odo",
+                "time": 1750348380
+            },
+            "proof": [
+                "ETF2L Ban: Continued Cheating (mirror)"
+            ],
+            "steamid": "[U:1:347892264]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Travis Scott",
+                "time": 1750346880
+            },
+            "proof": [
+                "ETF2L Ban: Cheating + VAC Ban Evasion"
+            ],
+            "steamid": "[U:1:167888396]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "cloud",
+                "time": 1746651660
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1550199049]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "5 GUM",
+                "time": 1743370980
+            },
+            "proof": [
+                "ETF2L Ban: Developing/Distributing Cheats"
+            ],
+            "steamid": "[U:1:70194998]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "arth",
+                "time": 1743370080
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:371148479]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sxnny_",
+                "time": 1743268800
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:908334759]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ruka",
+                "time": 1743268740
+            },
+            "proof": [
+                "ETF2L Ban: Cheating/Distribution of Cheats"
+            ],
+            "steamid": "[U:1:841915123]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Night",
+                "time": 1740678180
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd time)"
+            ],
+            "steamid": "[U:1:38066104]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DONBASS_GREAT",
+                "time": 1740677220
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:947989420]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "k2kretin",
+                "time": 1739285940
+            },
+            "proof": [
+                "ETF2L Ban: Promoting cheating on ETF2L"
+            ],
+            "steamid": "[U:1:1155885684]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "snacks",
+                "time": 1739285220
+            },
+            "proof": [
+                "ETF2L Ban: Promoting cheating services during a match"
+            ],
+            "steamid": "[U:1:224408445]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "timpictor",
+                "time": 1734207060
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:125005003]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Myuri",
+                "time": 1731783120
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:38030295]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Shima",
+                "time": 1730769660
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1082204518]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sab40",
+                "time": 1726958100
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1274931746]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Stormii",
+                "time": 1726957800
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1481437323]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "rogo",
+                "time": 1726955580
+            },
+            "proof": [
+                "ETF2L Ban: cheating (2nd time)"
+            ],
+            "steamid": "[U:1:127308509]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Melvix",
+                "time": 1726261320
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1271589913]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DaFuQWiZaT",
+                "time": 1720385520
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd time)"
+            ],
+            "steamid": "[U:1:35486188]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "kuzya",
+                "time": 1720384680
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:387974994]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "kislu",
+                "time": 1718393700
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:298457876]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mun",
+                "time": 1718195880
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:429586564]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "rocketmanz",
+                "time": 1717456860
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:855391905]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "aphmic",
+                "time": 1716065340
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:882010972]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "scroll",
+                "time": 1716065280
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1191896633]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Krad",
+                "time": 1715985360
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:243250708]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Gus",
+                "time": 1715431320
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1122167350]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "PojiLo",
+                "time": 1714768680
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:334863995]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Ragz",
+                "time": 1714645800
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:383388538]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Klowk",
+                "time": 1712160060
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:177466]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "wickerman",
+                "time": 1692392520
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:16080131]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sugar daddy",
+                "time": 1692203640
+            },
+            "proof": [
+                "ETF2L Ban: Cheating Ban Evasion"
+            ],
+            "steamid": "[U:1:415693023]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "morda",
+                "time": 1688648220
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:97091749]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "s0ha.",
+                "time": 1687936140
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:915315531]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "fs0yi",
+                "time": 1686941760
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd Time)"
+            ],
+            "steamid": "[U:1:344259748]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "insomnia",
+                "time": 1686580860
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:68097081]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "adam_s",
+                "time": 1686580860
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:947132758]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dot",
+                "time": 1685889900
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1374614469]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fidus",
+                "time": 1679317980
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:843469634]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "MORGENSHTERN",
+                "time": 1677104880
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:232573199]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Ilmel",
+                "time": 1676142180
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:921493372]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "REBECCATF2",
+                "time": 1670694900
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:375639964]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Imperator",
+                "time": 1670694840
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1049175406]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Freddie",
+                "time": 1668895260
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:41459975]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "GOTTARUN",
+                "time": 1668847800
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:853004283]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "4Th",
+                "time": 1668847800
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1178469693]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "AntowaKarton",
+                "time": 1668599100
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:111023137]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Buff3d",
+                "time": 1665677880
+            },
+            "proof": [
+                "ETF2L Ban: Evading a Cheating Ban"
+            ],
+            "steamid": "[U:1:99746960]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Vyden",
+                "time": 1664535180
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:992074912]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Edy99",
+                "time": 1663354260
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (after a VAC League Ban)"
+            ],
+            "steamid": "[U:1:1148166402]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mendo",
+                "time": 1663233600
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:210467523]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "december",
+                "time": 1663232460
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:124241804]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Snacks",
+                "time": 1663232400
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:248668173]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "clementine",
+                "time": 1663232400
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1207800146]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "420fedora",
+                "time": 1662398520
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:879347135]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Plutia",
+                "time": 1660941420
+            },
+            "proof": [
+                "ETF2L Ban: Cheating Ban Evasion"
+            ],
+            "steamid": "[U:1:838576271]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Daniel",
+                "time": 1659918960
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1070948256]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "iru",
+                "time": 1659103620
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:43426511]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "fturbo",
+                "time": 1659103500
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:353650108]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dolboeb",
+                "time": 1658141280
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1127291858]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "burg",
+                "time": 1657803420
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:170705512]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "neva",
+                "time": 1657803420
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1147931693]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "azn",
+                "time": 1656173580
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd Time + after a VAC League Ban)"
+            ],
+            "steamid": "[U:1:31135245]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Socolin",
+                "time": 1655715060
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:393829818]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "666999",
+                "time": 1655713200
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1140570567]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Offside",
+                "time": 1655131320
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:187764501]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sen",
+                "time": 1653983340
+            },
+            "proof": [
+                "ETF2L Ban: VAC (after a Cheating League Ban)"
+            ],
+            "steamid": "[U:1:853248191]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Lorax",
+                "time": 1653982860
+            },
+            "proof": [
+                "ETF2L Ban: VAC (after a Cheating League Ban)"
+            ],
+            "steamid": "[U:1:1160553481]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Amushi",
+                "time": 1652608860
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:345206133]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "jeven99",
+                "time": 1652300820
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (after a VAC League Ban)"
+            ],
+            "steamid": "[U:1:197662912]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "hellshock",
+                "time": 1652296560
+            },
+            "proof": [
+                "ETF2L Ban: Cheating/VAC"
+            ],
+            "steamid": "[U:1:1151498275]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Piffy",
+                "time": 1652296020
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:463826808]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "kapper",
+                "time": 1652295540
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:308816033]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DeX",
+                "time": 1650717000
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:80657570]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Larel",
+                "time": 1645808400
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (after a VAC league ban)"
+            ],
+            "steamid": "[U:1:395752926]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Dr Ludwig",
+                "time": 1644754980
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:62121877]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "torrit",
+                "time": 1642900260
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd time)"
+            ],
+            "steamid": "[U:1:86331856]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Dia",
+                "time": 1641509100
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd time)"
+            ],
+            "steamid": "[U:1:197124357]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "PhoenixAceVFX",
+                "time": 1640442420
+            },
+            "proof": [
+                "ETF2L Ban: VAC (with previous Cheating ban)"
+            ],
+            "steamid": "[U:1:320574411]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "cheeto",
+                "time": 1638443880
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd time), VAC"
+            ],
+            "steamid": "[U:1:277904552]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "snowsled",
+                "time": 1635935520
+            },
+            "proof": [
+                "ETF2L Ban: Continued Cheating"
+            ],
+            "steamid": "[U:1:290030202]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dedd",
+                "time": 1630241040
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:932612369]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "creamhole",
+                "time": 1629804720
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1144826436]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mr.Secret",
+                "time": 1629290100
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:351256914]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "elcyg",
+                "time": 1624718040
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:133635774]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "magg",
+                "time": 1623414960
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (2nd time)"
+            ],
+            "steamid": "[U:1:127155082]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "rikhard",
+                "time": 1623197340
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (after VAC League Ban)"
+            ],
+            "steamid": "[U:1:297390897]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Io",
+                "time": 1623062220
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:280090626]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mtilicious",
+                "time": 1622467980
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:125899367]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mr.Dooper",
+                "time": 1620863340
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:1135236007]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "zlot",
+                "time": 1620693480
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:440646611]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "farmer",
+                "time": 1620171720
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:946316328]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "niko",
+                "time": 1619911500
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:392362956]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "snarpii",
+                "time": 1619910840
+            },
+            "proof": [
+                "ETF2L Ban: Cheating - 2nd time"
+            ],
+            "steamid": "[U:1:867637482]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "pelta",
+                "time": 1618605480
+            },
+            "proof": [
+                "ETF2L Ban: Cheating 2nd time"
+            ],
+            "steamid": "[U:1:85691624]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "arctic",
+                "time": 1618590960
+            },
+            "proof": [
+                "ETF2L Ban: Cheating 2nd time"
+            ],
+            "steamid": "[U:1:397214074]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "astre",
+                "time": 1617881160
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:252590711]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Zuz",
+                "time": 1614436620
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:928246132]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "steko",
+                "time": 1614392880
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:294594853]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "stylish raptor",
+                "time": 1614387540
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:213139063]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Skynaq",
+                "time": 1613583600
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:977912796]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "deth",
+                "time": 1613583180
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:93121711]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "saga",
+                "time": 1613581800
+            },
+            "proof": [
+                "ETF2L Ban: Cheating (alt of deth)"
+            ],
+            "steamid": "[U:1:248770767]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "FortyTwo",
+                "time": 1610398440
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:412199207]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Naxeron",
+                "time": 1610398440
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:310771668]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "stillaezakmi",
+                "time": 1607200860
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:250260697]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Asus_box",
+                "time": 1603971240
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:194750477]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dest",
+                "time": 1603580460
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:424080329]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "198X",
+                "time": 1602231720
+            },
+            "proof": [
+                "ETF2L Ban: Cheating - extended"
+            ],
+            "steamid": "[U:1:381188045]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "kari",
+                "time": 1602231720
+            },
+            "proof": [
+                "ETF2L Ban: Cheating"
+            ],
+            "steamid": "[U:1:25292849]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Polterknight",
+                "time": 1601378460
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:891860281]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "renton",
+                "time": 1599776160
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:437613693]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "f4me_",
+                "time": 1597225920
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:490393149]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "dreamer",
+                "time": 1594843200
+            },
+            "proof": [
+                "ETF2L Ban: ESP."
+            ],
+            "steamid": "[U:1:1026869750]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Antikvnst",
+                "time": 1593622560
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot."
+            ],
+            "steamid": "[U:1:5849893]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "6red",
+                "time": 1591831380
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot."
+            ],
+            "steamid": "[U:1:187738868]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "pocky",
+                "time": 1590346260
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot."
+            ],
+            "steamid": "[U:1:319340349]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "shellshock",
+                "time": 1590346200
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:879403000]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "amelia watson",
+                "time": 1590345480
+            },
+            "proof": [
+                "ETF2L Ban: Cheating/VAC"
+            ],
+            "steamid": "[U:1:42724440]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "fdg",
+                "time": 1590335400
+            },
+            "proof": [
+                "ETF2L Ban: ESP."
+            ],
+            "steamid": "[U:1:106753959]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "AutismGaming228",
+                "time": 1590335340
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot."
+            ],
+            "steamid": "[U:1:11118662]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ddf",
+                "time": 1590334800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:126171449]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "konung",
+                "time": 1558777620
+            },
+            "proof": [
+                "ETF2L Ban: Cheating, Ban evasion"
+            ],
+            "steamid": "[U:1:138392917]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Ry",
+                "time": 1556283180
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:464578350]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "E H E",
+                "time": 1549208880
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:184079354]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "lukegameage",
+                "time": 1544044800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:95187212]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Ruvik666",
+                "time": 1541638680
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:230143489]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Pimskii",
+                "time": 1537039620
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:110247138]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Moonshine_",
+                "time": 1529264580
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot + VAC"
+            ],
+            "steamid": "[U:1:474893645]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "RezQ_",
+                "time": 1526939940
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:257399853]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "lacrimosa",
+                "time": 1517954700
+            },
+            "proof": [
+                "ETF2L Ban: ESP/Aimbot"
+            ],
+            "steamid": "[U:1:99852576]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "phatiacy",
+                "time": 1499631960
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:199902045]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "nullifiedcat",
+                "time": 1499631120
+            },
+            "proof": [
+                "ETF2L Ban: Cheat distribution"
+            ],
+            "steamid": "[U:1:84069484]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Spooky",
+                "time": 1493679900
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:311659567]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Cryo",
+                "time": 1493679840
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:210564150]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Kenny",
+                "time": 1487372760
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:43263889]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "flakie",
+                "time": 1487369220
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:207415371]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mohawke",
+                "time": 1487368860
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:112935130]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "nikedoll",
+                "time": 1474830420
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:1402679]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Bobbert",
+                "time": 1474829640
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:111611287]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ccZun",
+                "time": 1474829400
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:201763]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mortarion",
+                "time": 1474829340
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:201046941]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mason69",
+                "time": 1468176300
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:121440791]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Skitzzy",
+                "time": 1468176300
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:152655512]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "scptrx",
+                "time": 1462027440
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:214607323]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "badassthunder",
+                "time": 1462027440
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:120297016]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Tama",
+                "time": 1460071920
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:210515186]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ReX",
+                "time": 1460071860
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:341067004]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Smooth",
+                "time": 1460071800
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:207047963]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "FLiKs",
+                "time": 1460071800
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:84577674]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "SexySushy",
+                "time": 1460071800
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:162260282]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "al3xtheli0n",
+                "time": 1453750080
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, VAC"
+            ],
+            "steamid": "[U:1:915858976]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "m.ngl",
+                "time": 1453750080
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, VAC"
+            ],
+            "steamid": "[U:1:174172867]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hi im hugo",
+                "time": 1453750020
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:161222536]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sevenad",
+                "time": 1453750020
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:95121816]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Porky Minch",
+                "time": 1445373000
+            },
+            "proof": [
+                "ETF2L Ban: Distributing cheats"
+            ],
+            "steamid": "[U:1:164120700]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Varrah",
+                "time": 1445372880
+            },
+            "proof": [
+                "ETF2L Ban: Multihack, VAC"
+            ],
+            "steamid": "[U:1:203227596]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fucio",
+                "time": 1445372880
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:128364449]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "iamzhevor",
+                "time": 1445372820
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:97290307]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fancy",
+                "time": 1445372820
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, VAC"
+            ],
+            "steamid": "[U:1:263011744]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mark",
+                "time": 1445372820
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:220792511]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "MLG Scout",
+                "time": 1445372700
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:286362688]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Comrade Logic",
+                "time": 1436716920
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:102048587]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Zeus",
+                "time": 1436716920
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:28316953]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "\u010cernoB\u00edlej",
+                "time": 1436716860
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, VAC"
+            ],
+            "steamid": "[U:1:53784844]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Rainford",
+                "time": 1436716860
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:120044525]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Greasy Owen",
+                "time": 1436716860
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:126148787]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Haxor",
+                "time": 1436716860
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, VAC"
+            ],
+            "steamid": "[U:1:112242256]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Wako",
+                "time": 1432930380
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:98549137]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Toko",
+                "time": 1432930320
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, VAC"
+            ],
+            "steamid": "[U:1:85608689]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Chochy",
+                "time": 1432930320
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:139951579]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mist",
+                "time": 1432930320
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, VAC"
+            ],
+            "steamid": "[U:1:179100551]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Moosicorn",
+                "time": 1432930260
+            },
+            "proof": [
+                "ETF2L Ban: ESP, triggerbot, VAC"
+            ],
+            "steamid": "[U:1:215985322]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Ditzy",
+                "time": 1432930260
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot, VAC"
+            ],
+            "steamid": "[U:1:56481139]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TheLieingCake",
+                "time": 1432930260
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:98136838]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Noel",
+                "time": 1432930200
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:42134977]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "-Numnutz-",
+                "time": 1432930200
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, ban evasion, VAC"
+            ],
+            "steamid": "[U:1:110833179]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Carbonated",
+                "time": 1432930200
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:84184123]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "SwagRune",
+                "time": 1427047800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:95867172]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "aka_game",
+                "time": 1427047740
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:10507996]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Dasboumis",
+                "time": 1427047740
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:71195240]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Puppy",
+                "time": 1427047740
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:44154502]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TroubleFaker",
+                "time": 1425068460
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:82571857]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "bombayu",
+                "time": 1425068460
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:203152693]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Alfred",
+                "time": 1422034440
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:61212547]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Elmo",
+                "time": 1422034440
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:83488459]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "ISA",
+                "time": 1422034440
+            },
+            "proof": [
+                "ETF2L Ban: ESP, triggerbot"
+            ],
+            "steamid": "[U:1:55124587]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Berry",
+                "time": 1422034380
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:165011374]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Bat",
+                "time": 1422034380
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:59245732]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "[iSc] Hamza",
+                "time": 1422034320
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:117230648]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "009EFF",
+                "time": 1422034320
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:81019374]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "DmC",
+                "time": 1422034320
+            },
+            "proof": [
+                "ETF2L Ban: ESP, aimbot"
+            ],
+            "steamid": "[U:1:131307679]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Maxplasma",
+                "time": 1418938320
+            },
+            "proof": [
+                "ETF2L Ban: multihack"
+            ],
+            "steamid": "[U:1:178182964]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Otip",
+                "time": 1418938260
+            },
+            "proof": [
+                "ETF2L Ban: triggerbot"
+            ],
+            "steamid": "[U:1:74423713]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "OneVirus",
+                "time": 1418938260
+            },
+            "proof": [
+                "ETF2L Ban: multihack"
+            ],
+            "steamid": "[U:1:201314865]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "laceyk1ng",
+                "time": 1415836620
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:431172345]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Twillycorn",
+                "time": 1414087860
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:114549137]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "refint",
+                "time": 1414087800
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:102406899]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "misiek",
+                "time": 1414087800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:109521774]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Kaylisk",
+                "time": 1411308960
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:50383813]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Alex.",
+                "time": 1411308900
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:123324033]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "croma",
+                "time": 1407696600
+            },
+            "proof": [
+                "ETF2L Ban: triggerbot"
+            ],
+            "steamid": "[U:1:175273597]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Soda-td-",
+                "time": 1407696600
+            },
+            "proof": [
+                "ETF2L Ban: multihack"
+            ],
+            "steamid": "[U:1:68073059]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "CamelWang<3",
+                "time": 1407696600
+            },
+            "proof": [
+                "ETF2L Ban: multihack"
+            ],
+            "steamid": "[U:1:79717487]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "junnu",
+                "time": 1406413560
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:128643558]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Lance",
+                "time": 1406413200
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:180059658]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Banyan",
+                "time": 1406413020
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:136142452]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "iKonatai",
+                "time": 1398470400
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:107000972]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Magic",
+                "time": 1398470400
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:75992502]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fender",
+                "time": 1395100800
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:145789726]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Jesse James",
+                "time": 1395100800
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:182026914]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "reasoNNN S2",
+                "time": 1392163200
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:115633466]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sunnyboy",
+                "time": 1392163200
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:66384360]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Skidoosh",
+                "time": 1392163200
+            },
+            "proof": [
+                "ETF2L Ban: ESP/Triggerbot"
+            ],
+            "steamid": "[U:1:34453093]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TKT",
+                "time": 1390521600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:147639667]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Daul",
+                "time": 1388534400
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:191762732]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Kayziix",
+                "time": 1377561600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:95812170]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Rdios",
+                "time": 1377561600
+            },
+            "proof": [
+                "ETF2L Ban: Cheating in pickups on alts"
+            ],
+            "steamid": "[U:1:46164878]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Random",
+                "time": 1374019200
+            },
+            "proof": [
+                "ETF2L Ban: Cheating inpickups on alts"
+            ],
+            "steamid": "[U:1:2903281]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "AnteroX",
+                "time": 1374019200
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot/Triggerbot"
+            ],
+            "steamid": "[U:1:118910184]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Deputy",
+                "time": 1371686400
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:107539887]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "imdustin",
+                "time": 1369008000
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:82735128]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Chiakii",
+                "time": 1369008000
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:10094716]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "tms",
+                "time": 1366588800
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:52680436]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "MisterPixels",
+                "time": 1365811200
+            },
+            "proof": [
+                "ETF2L Ban: ESP/Aimbot"
+            ],
+            "steamid": "[U:1:94113620]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "zilis",
+                "time": 1365638400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack +1 year alt account"
+            ],
+            "steamid": "[U:1:103945640]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "bebeto",
+                "time": 1365638400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:26513307]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Ravioli",
+                "time": 1365638400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:81124075]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Horizon",
+                "time": 1365206400
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:119948135]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TheSpok",
+                "time": 1363996800
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:80685906]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mozz",
+                "time": 1363996800
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:46008265]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Buldo",
+                "time": 1363996800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:120036134]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Al_Arctic",
+                "time": 1363996800
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:45116068]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "baud",
+                "time": 1363996800
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack/Esp"
+            ],
+            "steamid": "[U:1:32498747]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Spankyy",
+                "time": 1362700800
+            },
+            "proof": [
+                "ETF2L Ban: Admitted to cheating"
+            ],
+            "steamid": "[U:1:122242430]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "TviQ",
+                "time": 1357257600
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack/Esp"
+            ],
+            "steamid": "[U:1:17040954]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Tarkus",
+                "time": 1347235200
+            },
+            "proof": [
+                "ETF2L Ban: ESP hack"
+            ],
+            "steamid": "[U:1:46893752]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "matnuN",
+                "time": 1347235200
+            },
+            "proof": [
+                "ETF2L Ban: ESP hack"
+            ],
+            "steamid": "[U:1:285047734]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "melody",
+                "time": 1347235200
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack, sv_pure bypass"
+            ],
+            "steamid": "[U:1:101423336]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Quartz",
+                "time": 1347235200
+            },
+            "proof": [
+                "ETF2L Ban: ESP hack"
+            ],
+            "steamid": "[U:1:13018336]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Lis powrut",
+                "time": 1347235200
+            },
+            "proof": [
+                "ETF2L Ban: ESP hack"
+            ],
+            "steamid": "[U:1:50491112]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "c",
+                "time": 1347235200
+            },
+            "proof": [
+                "ETF2L Ban: ESP hack"
+            ],
+            "steamid": "[U:1:76695920]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fwn",
+                "time": 1333324800
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:38088345]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "IcEb3rG",
+                "time": 1332720000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:38044793]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "loafen",
+                "time": 1330214400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack, aim assist"
+            ],
+            "steamid": "[U:1:38850138]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "HaKo",
+                "time": 1328832000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot; nospread"
+            ],
+            "steamid": "[U:1:17329420]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fixxy",
+                "time": 1328832000
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack, triggerbot"
+            ],
+            "steamid": "[U:1:40635532]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "eLm0re",
+                "time": 1320969600
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:68948859]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Zero",
+                "time": 1316390400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack + Triggerbot"
+            ],
+            "steamid": "[U:1:86039007]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "silleh",
+                "time": 1316390400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:1615625]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "danny.",
+                "time": 1308614400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack + Triggerbot"
+            ],
+            "steamid": "[U:1:51714471]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Casual",
+                "time": 1307836800
+            },
+            "proof": [
+                "ETF2L Ban: Multihacks"
+            ],
+            "steamid": "[U:1:71161704]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "blorg",
+                "time": 1307836800
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:42057889]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "WT",
+                "time": 1305072000
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:74148466]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "just you",
+                "time": 1305072000
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot / possible aimbot"
+            ],
+            "steamid": "[U:1:61341926]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "O_oPs*",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: triggerbot and returning under a second"
+            ],
+            "steamid": "[U:1:75967933]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "BaNaNa",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:18290376]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Rufy",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: wallhack"
+            ],
+            "steamid": "[U:1:17272646]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "yor",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:56573434]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Headpump",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: aimbot/wallhack"
+            ],
+            "steamid": "[U:1:66819438]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "tf2 is dead",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:34127656]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "mika",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:38720812]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "asnecheatas",
+                "time": 1294963200
+            },
+            "proof": [
+                "ETF2L Ban: 1st account O_oPs*"
+            ],
+            "steamid": "[U:1:53453796]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Indxyou",
+                "time": 1286409600
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:23653913]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Mah Jongg",
+                "time": 1284508800
+            },
+            "proof": [
+                "ETF2L Ban: Multihack"
+            ],
+            "steamid": "[U:1:79206548]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sm1le :3",
+                "time": 1284508800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:41064171]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sm1le",
+                "time": 1284508800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot, second account smile"
+            ],
+            "steamid": "[U:1:68879724]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "NextSound",
+                "time": 1282435200
+            },
+            "proof": [
+                "ETF2L Ban: Multihack, Aimbot & Wallhack"
+            ],
+            "steamid": "[U:1:54678193]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "reactioN",
+                "time": 1280016000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot + avoiding ban"
+            ],
+            "steamid": "[U:1:33175579]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "playa",
+                "time": 1280016000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:39307852]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "bb",
+                "time": 1280016000
+            },
+            "proof": [
+                "ETF2L Ban: ESP"
+            ],
+            "steamid": "[U:1:35165207]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Gaw",
+                "time": 1280016000
+            },
+            "proof": [
+                "ETF2L Ban: Speedhack"
+            ],
+            "steamid": "[U:1:52208711]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "phy-",
+                "time": 1272153600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot/Multihack"
+            ],
+            "steamid": "[U:1:47458950]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hastaloe",
+                "time": 1267920000
+            },
+            "proof": [
+                "ETF2L Ban: Speedhack"
+            ],
+            "steamid": "[U:1:39441198]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Sandik",
+                "time": 1266796800
+            },
+            "proof": [
+                "ETF2L Ban: Speedhack"
+            ],
+            "steamid": "[U:1:45381257]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "gorlami",
+                "time": 1265500800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot & Wallhack"
+            ],
+            "steamid": "[U:1:371339086]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "quad",
+                "time": 1265500800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:11885060]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "anthony",
+                "time": 1264118400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:7800329]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "boomeh",
+                "time": 1258848000
+            },
+            "proof": [
+                "ETF2L Ban: Cheat Ban by Aequitas + returning under"
+            ],
+            "steamid": "[U:1:114365291]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Robert2",
+                "time": 1257811200
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:38045483]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "IzI8",
+                "time": 1257811200
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:35489298]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "loiceight",
+                "time": 1257811200
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:49248818]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Spicke",
+                "time": 1256428800
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:37859464]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "vlees",
+                "time": 1255132800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:36487150]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Giordy",
+                "time": 1254441600
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:16720065]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "chinaski",
+                "time": 1254441600
+            },
+            "proof": [
+                "ETF2L Ban: aimbot"
+            ],
+            "steamid": "[U:1:28954268]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "johnny",
+                "time": 1254441600
+            },
+            "proof": [
+                "ETF2L Ban: wallhack"
+            ],
+            "steamid": "[U:1:48757369]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fallen",
+                "time": 1240880400
+            },
+            "proof": [
+                "ETF2L Ban: Speedhack"
+            ],
+            "steamid": "[U:1:32936381]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Abra",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot + trying to avoid ban"
+            ],
+            "steamid": "[U:1:122318388]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "aerokot",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:22366031]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Tack",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:1223567]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "blw",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:39357791]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Duracell",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:34223367]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Almaa",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:1389449]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "NightHawk-",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:50595456]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "sraam",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:29037797]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "berg",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:12424356]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Hohen",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:38947849]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Fyrh",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:36985360]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "vicii",
+                "time": 1239411600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:26718]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "waffle",
+                "time": 1238288400
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack/Playing while banned"
+            ],
+            "steamid": "[U:1:43877855]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Megadeath",
+                "time": 1237942800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:39288546]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Flo",
+                "time": 1237338000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:574743]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Heliana",
+                "time": 1237338000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:35034888]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Pomme",
+                "time": 1237338000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot + Account sharing"
+            ],
+            "steamid": "[U:1:35227146]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "get a life d00d",
+                "time": 1237338000
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:38243463]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "payard",
+                "time": 1236819600
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:32655332]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Madsie",
+                "time": 1231372800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot + trying to avoid ban"
+            ],
+            "steamid": "[U:1:33343073]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Nike",
+                "time": 1230253200
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:35104366]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Agge",
+                "time": 1230253200
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack"
+            ],
+            "steamid": "[U:1:30948822]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Donvh",
+                "time": 1221184800
+            },
+            "proof": [
+                "ETF2L Ban: Aimbot"
+            ],
+            "steamid": "[U:1:36659241]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Moonroach",
+                "time": 1220922000
+            },
+            "proof": [
+                "ETF2L Ban: Triggerbot"
+            ],
+            "steamid": "[U:1:37812164]"
+        },
+        {
+            "attributes": [
+                "cheater"
+            ],
+            "last_seen": {
+                "player_name": "Trojan",
+                "time": 1220922000
+            },
+            "proof": [
+                "ETF2L Ban: Wallhack/ESP+Aimbot"
+            ],
+            "steamid": "[U:1:38277366]"
+        }
+    ]
+}

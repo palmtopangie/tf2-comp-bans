@@ -1,5 +1,5 @@
-# TF2-comp-bans
-A generated list of cheating bans from [RGL](https://rgl.gg/Public/PlayerBanList) and [ETF2L](https://etf2l.org/etf2l/bans/). This ONLY includes bans for cheating, cheat distribution, and cheat development.
+# tf2-comp-bans
+A generated list of cheating bans from [RGL](https://rgl.gg/Public/PlayerBanList) and [ETF2L](https://etf2l.org/etf2l/bans/). This ONLY includes bans for cheating, cheat distribution, and cheat development. Files have also been generated to be used with the [TF2 Bot Detector](https://github.com/surepy/tf2_bot_detector).
 
 Written in python, requires ``requests`` and `beautifulsoup4`.
 

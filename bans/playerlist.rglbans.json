@@ -1,0 +1,4108 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"palmtopangie"
+		],
+		"description": "RGL Cheating Bans list converted for TF2 Bot Detector",
+		"title": "RGL Cheating Bans",
+		"update_url": "https://raw.githubusercontent.com/palmtopangie/TF2-comp-bans/main/bans/playerlist.rglbans.json"
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nierxi",
+				"time": 1581065312
+			},
+			"proof": [
+				"RGL Ban: Continuous history of cheating on alternate accounts and multiple ban evasions."
+			],
+			"steamid": "[U:1:12289]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ludic",
+				"time": 1559871558
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:138026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bar",
+				"time": 1712990881
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:177466]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cray",
+				"time": 1725067530
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:898025]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mxr",
+				"time": 1611455760
+			},
+			"proof": [
+				"RGL Ban: Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:1372862]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jag",
+				"time": 1620722018
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:1778931]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jack Paul",
+				"time": 1578897819
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:6895097]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1595269289
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:12021363]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eli",
+				"time": 1730253245
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:15704397]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "one",
+				"time": 1724053742
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:16080131]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Trelan",
+				"time": 1534892403
+			},
+			"proof": [
+				"RGL Ban: Cheating - First and Second Offense"
+			],
+			"steamid": "[U:1:17065388]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lustic",
+				"time": 1623743815
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense\r\n<br><br>\r\n\r\nOld account, new account<br/><a href=\"https://rgl.gg/Public/PlayerProfile.aspx?p=76561198130818517\">https://rgl.gg/Public/PlayerProfile.aspx?p=76561198130818517</a>"
+			],
+			"steamid": "[U:1:17783256]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "karisuto",
+				"time": 1606545322
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:25292849]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "heoeihei",
+				"time": 1667721774
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:31135245]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DaFuQWiZaT",
+				"time": 1720391856
+			},
+			"proof": [
+				"RGL Ban: Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:35486188]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":happy:",
+				"time": 1752616760
+			},
+			"proof": [
+				"RGL Ban: Alt Account<br/>Cheating - First Offense"
+			],
+			"steamid": "[U:1:35573103]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Myuri",
+				"time": 1743266882
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:38030295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1724226560
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:41459975]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "iru",
+				"time": 1659684044
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:43426511]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Taylor",
+				"time": 1570336514
+			},
+			"proof": [
+				"RGL Ban: Cheating in a scrim."
+			],
+			"steamid": "[U:1:51532141]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "wwwwwwwwwwwww",
+				"time": 1680680419
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:56204858]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kicsi Batya",
+				"time": 1655537283
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:62121877]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dirk's Dead",
+				"time": 1730252904
+			},
+			"proof": [
+				"RGL Ban: Cheating - Second Offense"
+			],
+			"steamid": "[U:1:65602717]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "crystalmancy",
+				"time": 1749359269
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:66127743]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cvk",
+				"time": 1703407685
+			},
+			"proof": [
+				"RGL Ban: Alt account</br>\r\nCheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:66421419]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "insomnia",
+				"time": 1724054526
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:68097081]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cukei",
+				"time": 1715303682
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:70194998]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yen",
+				"time": 1726792957
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:77252918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pain",
+				"time": 1593133804
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:80460425]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1655537444
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:80657570]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DeLichte",
+				"time": 1621068613
+			},
+			"proof": [
+				"RGL Ban: 5/19/21 - 5/19/23 - Cheating 1st Offense (Reapplied due to League Ban Evasion offense)</br>\r\n5/19/23 - 11/19/23 - Alternate Accounts </br>\r\n11/19/23 - 5/19/24 - League ban evasion"
+			],
+			"steamid": "[U:1:81347479]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fresh Kiwi",
+				"time": 1742630275
+			},
+			"proof": [
+				"RGL Ban: Cheating - Second Offense"
+			],
+			"steamid": "[U:1:85479401]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1633767346
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:85691624]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "VOLATILE medic",
+				"time": 1643013456
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:86331856]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eX.Hunter",
+				"time": 1518892409
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match"
+			],
+			"steamid": "[U:1:91100125]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rageheavy",
+				"time": 1729416033
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:92783482]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "009",
+				"time": 1633767741
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:93121711]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cury99",
+				"time": 1718347211
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:94395428]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "randyw",
+				"time": 1534893076
+			},
+			"proof": [
+				"RGL Ban: Cheating - http://hl.rgl.gg/Public/Articles/Default.aspx?a=1080"
+			],
+			"steamid": "[U:1:94561690]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "countryhunter12",
+				"time": 1599756833
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:96823307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "morda",
+				"time": 1724053907
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:97091749]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Crustacean Sensation",
+				"time": 1661158524
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:99559076]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Storm",
+				"time": 1667721573
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:99746960]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Drugstoner420_",
+				"time": 1593227804
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:100352295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sf",
+				"time": 1601142528
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:103275571]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mujet",
+				"time": 1523422800
+			},
+			"proof": [
+				"RGL Ban: Cheating - UGC Mirror"
+			],
+			"steamid": "[U:1:103277184]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mute",
+				"time": 1643703967
+			},
+			"proof": [
+				"RGL Ban: Game Exploit - Sniper Scope Removal - Warning<br/><br/>A warning was issued to inform the player that this mod is not allowed to be used in scrims and was informed to remove it from their computer, which they have complied with. <a href=\"https://docs.google.com/document/d/1jfp2o6X4m0zdrX50kZ5YNsrvBANqxfDb-nEsRBb1wh0/view#heading=h.1gggw6d6vkt8\">[1003.1] - Cheating</a> was updated to add that evidence of cheating anywhere in TF2, including public servers, scrims, and PUGs (Pick-Up Games) applies to all the sections listed on a case-by-case basis depending on the intent and impact where it occurred. Previously, it was not clear in the rulebook that game exploits, such as snipe scope transparency, were enforced outside of RGL matches. As the player had no previous experience in RGL, this also served as an additional reason for AC's decision to issue a warning in this specific case. Any usage of the mod moving forward in TF2 will lead to league suspensions."
+			],
+			"steamid": "[U:1:103881518]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hurm",
+				"time": 1755811918
+			},
+			"proof": [
+				"RGL Ban: Alternate Account</br>Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:104059874]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1518892247
+			},
+			"proof": [
+				"RGL Ban: UGC: Outside of match cheating"
+			],
+			"steamid": "[U:1:105604626]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Slender",
+				"time": 1593135261
+			},
+			"proof": [
+				"RGL Ban: Cheating - Mirrored league ban."
+			],
+			"steamid": "[U:1:105897431]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "recess",
+				"time": 1712990941
+			},
+			"proof": [
+				"RGL Ban: Cheating - Second Offense"
+			],
+			"steamid": "[U:1:106567849]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lolka_56",
+				"time": 1724226423
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:111023137]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nyxi",
+				"time": 1518892051
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match - First Offense"
+			],
+			"steamid": "[U:1:112036809]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "king confused",
+				"time": 1744359728
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses<br/>Use of an alternate account - First Offense"
+			],
+			"steamid": "[U:1:113766060]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kitty",
+				"time": 1531454813
+			},
+			"proof": [
+				"RGL Ban: Cheating in an RGL Match: http://rgl.gg/Public/Match.aspx?m=708"
+			],
+			"steamid": "[U:1:115573831]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Deathreus",
+				"time": 1624059043
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:115998815]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "qwq",
+				"time": 1667722173
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:124241804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Z0rpi",
+				"time": 1631263609
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:125899367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1631263682
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - Second Offense"
+			],
+			"steamid": "[U:1:127155082]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rogo",
+				"time": 1726989628
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:127308509]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Togsyck",
+				"time": 1631263695
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:133635774]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kels",
+				"time": 1750888945
+			},
+			"proof": [
+				"RGL Ban: Alt Account\r\nCheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:134119299]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kiqora",
+				"time": 1601142502
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:136574902]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hyphen",
+				"time": 1534893057
+			},
+			"proof": [
+				"RGL Ban: Cheating - http://hl.rgl.gg/Public/Articles/Default.aspx?a=1080"
+			],
+			"steamid": "[U:1:137156945]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "skylar",
+				"time": 1728976141
+			},
+			"proof": [
+				"RGL Ban: New account, old accounts: <br/><a href=\"https://rgl.gg/Public/PlayerProfile.aspx?p=76561198058963755\">https://rgl.gg/Public/PlayerProfile.aspx?p=76561198058963755</a><br/><a href=\"https://rgl.gg/Public/PlayerProfile?p=76561199017903579\">https://rgl.gg/Public/PlayerProfile?p=76561199017903579</a>\r\n\r\n<br/><br/> Past discipline on old account:  Cheating - First Offense"
+			],
+			"steamid": "[U:1:140679708]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rerun",
+				"time": 1753219239
+			},
+			"proof": [
+				"RGL Ban: Alt Account<br/>Cheating - First Offense"
+			],
+			"steamid": "[U:1:141887874]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blank",
+				"time": 1567382928
+			},
+			"proof": [
+				"RGL Ban: Cheating in matches / Outside of matches"
+			],
+			"steamid": "[U:1:145263945]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "River",
+				"time": 1574797975
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:152453448]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xavierthexanman",
+				"time": 1606545433
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:152706385]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Trxter",
+				"time": 1578376111
+			},
+			"proof": [
+				"RGL Ban: Cheating."
+			],
+			"steamid": "[U:1:155535673]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ether",
+				"time": 1698390131
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:157533193]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Timm",
+				"time": 1554326629
+			},
+			"proof": [
+				"RGL Ban: Was caught cheating in TF2 Scrimage.\r\n\r\nCooperated with staff and is in good standing with league. Has had no issues since initially incident"
+			],
+			"steamid": "[U:1:157724850]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sesh",
+				"time": 1566345199
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:158478549]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Goofy",
+				"time": 1583722428
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:158538134]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "biscoft",
+				"time": 1601142526
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:158571546]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cepi",
+				"time": 1733304165
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:160119456]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Galaxy",
+				"time": 1596616268
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:163126411]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "elijah",
+				"time": 1689561964
+			},
+			"proof": [
+				"RGL Ban: Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:163739560]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "duck",
+				"time": 1591594487
+			},
+			"proof": [
+				"RGL Ban: Second cheating offense."
+			],
+			"steamid": "[U:1:164737390]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dakota",
+				"time": 1786050398
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:164979752]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "risemara",
+				"time": 1518892424
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match"
+			],
+			"steamid": "[U:1:170046336]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Deer God",
+				"time": 1623743838
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense\r\n</br></br>\r\nNew account, old accounts: <a href=\"https://rgl.gg/Public/PlayerProfile.aspx?p=76561197978048984&r=24\">https://rgl.gg/Public/PlayerProfile.aspx?p=76561197978048984&r=24</a>\r\n</br><a href=\"https://rgl.gg/Public/PlayerProfile.aspx?p=76561198143246863\">https://rgl.gg/Public/PlayerProfile.aspx?p=76561198143246863</a>"
+			],
+			"steamid": "[U:1:170552789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "edi",
+				"time": 1667721911
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:170705512]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jel",
+				"time": 1628033100
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:170831506]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gabino",
+				"time": 1613262412
+			},
+			"proof": [
+				"RGL Ban: Cheating - 2nd offense"
+			],
+			"steamid": "[U:1:172009436]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jermey",
+				"time": 1729416281
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense <br/><br/>They have been put on an indefinite ban with a minimum sentence of 4 years from the start date of this ban. After the time has elapsed, they can appeal to have their ban lifted (once all active bans have expired), provided they can show that they've changed as a member of this community."
+			],
+			"steamid": "[U:1:173621389]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sarah",
+				"time": 1582091353
+			},
+			"proof": [
+				"RGL Ban: Cheating (First Offense)"
+			],
+			"steamid": "[U:1:175497289]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kota",
+				"time": 1730253183
+			},
+			"proof": [
+				"RGL Ban: Cheating - Second Offense"
+			],
+			"steamid": "[U:1:178712745]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "C3Y",
+				"time": 1711416838
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:181850103]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Yebisu",
+				"time": 1740876314
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:182401662]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yuki",
+				"time": 1569022966
+			},
+			"proof": [
+				"RGL Ban: Cheating on Alt Account"
+			],
+			"steamid": "[U:1:182818212]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mel",
+				"time": 1749359937
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:182964660]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Crystal",
+				"time": 1623743847
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense\r\n</br></br>\r\n\r\nOld account, other accounts: <a href=\"https://rgl.gg/Public/PlayerProfile.aspx?p=76561197978048984&r=24\">https://rgl.gg/Public/PlayerProfile.aspx?p=76561197978048984&r=24</a>\r\n</br>\r\n<a href=\"https://rgl.gg/Public/PlayerProfile.aspx?p=76561198130818517\">https://rgl.gg/Public/PlayerProfile.aspx?p=76561198130818517</a>"
+			],
+			"steamid": "[U:1:182981135]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Reece",
+				"time": 1667721515
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:187764501]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Gone compilin'",
+				"time": 1518892568
+			},
+			"proof": [
+				"RGL Ban: UGC: \tCheating in a match"
+			],
+			"steamid": "[U:1:189102692]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Razz",
+				"time": 1574035141
+			},
+			"proof": [
+				"RGL Ban: Cheating in RGL matches"
+			],
+			"steamid": "[U:1:190665176]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tiof",
+				"time": 1677819611
+			},
+			"proof": [
+				"RGL Ban: New account, old account: <a href=\"https://rgl.gg/Public/PlayerProfile.aspx?p=76561198195656410\">https://rgl.gg/Public/PlayerProfile.aspx?p=76561198195656410</a><br/><br/>Past Discipline History: Cheating - 1st offense"
+			],
+			"steamid": "[U:1:190766514]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Perdomy",
+				"time": 1734337933
+			},
+			"proof": [
+				"RGL Ban: Cheating - Second Offense"
+			],
+			"steamid": "[U:1:190809918]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GaySparkyyyy",
+				"time": 1518892548
+			},
+			"proof": [
+				"RGL Ban: UGC: \tCheating in a match"
+			],
+			"steamid": "[U:1:192674175]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dolo",
+				"time": 1633767575
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:194750477]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Diatro",
+				"time": 1643013562
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:197124357]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pablo.DonkeyBong.2009",
+				"time": 1605324617
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:197193067]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jeves",
+				"time": 1655537535
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:197662912]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GarSmokinGamer",
+				"time": 1753218700
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:206088214]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pengu.G2",
+				"time": 1687237641
+			},
+			"proof": [
+				"RGL Ban: - Impersonating as an RGL admin during an RGL match<br/>- Disrupting an RGL match<br/>- Cheating (First Offense)<br/>- Using an alternate account in RGL<br/>- League ban evasion"
+			],
+			"steamid": "[U:1:209967235]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mendo ",
+				"time": 1667722203
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:210467523]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Collectable hell",
+				"time": 1633767754
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:213139063]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "flawless",
+				"time": 1580015111
+			},
+			"proof": [
+				"RGL Ban: This user involvement in the harassment and mismanagement of the South American Highlander community, past history of cheating, doxing of players in the community, and involvement of DDoSing matches does not align with RGL's policies of beliefs, and thus a 2-year minimum sentence has been issued. This player will be able to appeal their ban to be placed on probation after the minimum sentence."
+			],
+			"steamid": "[U:1:214802567]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "vec",
+				"time": 1555902625
+			},
+			"proof": [
+				"RGL Ban: Player remains to be cheating even after the ban has been issued."
+			],
+			"steamid": "[U:1:219513833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "zzz",
+				"time": 1655537495
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:227032897]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cito",
+				"time": 1786401869
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:232276034]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dippi",
+				"time": 1724314369
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:232573199]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "D00IE",
+				"time": 1613513746
+			},
+			"proof": [
+				"RGL Ban: Cheating - 1st offense"
+			],
+			"steamid": "[U:1:235390682]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PURE CHEATS",
+				"time": 1662622000
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:236732279]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Furryy",
+				"time": 1725067643
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:240519803]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "misery",
+				"time": 1620722008
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:242166290]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "f4ge | TheSponge",
+				"time": 1569867275
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:242198600]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Krad",
+				"time": 1724053500
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:243250708]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ilyannie",
+				"time": 1667722157
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:248668173]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "grub",
+				"time": 1724480574
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense. Distribution of Cheats - 2nd Offense."
+			],
+			"steamid": "[U:1:249450593]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "     cide",
+				"time": 1633767612
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:250260697]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "astre",
+				"time": 1615783909
+			},
+			"proof": [
+				"RGL Ban: Cheating - 2nd Offense."
+			],
+			"steamid": "[U:1:252590711]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Prismo",
+				"time": 1763430560
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:252705628]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "M3ndo",
+				"time": 1757798628
+			},
+			"proof": [
+				"RGL Ban: Assisting ban evasion of a permanently banned player<br/>Account Sharing with a permanently banned player<br/>Cheating - First Offense"
+			],
+			"steamid": "[U:1:253563904]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "megs",
+				"time": 1715304083
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:253867813]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fuzze",
+				"time": 1598224643
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:254196047]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Frax",
+				"time": 1698390114
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:254958977]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "RezQ #Hand Injury",
+				"time": 1518892493
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match"
+			],
+			"steamid": "[U:1:257399853]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sk4rbee",
+				"time": 1629531934
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:273676104]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": " GEI  ",
+				"time": 1631263661
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:280090626]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "angel",
+				"time": 1582091246
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:281484856]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "styx",
+				"time": 1613868874
+			},
+			"proof": [
+				"RGL Ban: Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:286162200]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "snowy",
+				"time": 1641543847
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:290030202]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LAL Amby",
+				"time": 1736414885
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:291492488]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "robotnik",
+				"time": 1782222540
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:293790588]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "steko",
+				"time": 1633767766
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:294594853]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shaaden",
+				"time": 1631263673
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - Second Offense"
+			],
+			"steamid": "[U:1:297390897]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "XDDDXDXDDD!!!XDDDD",
+				"time": 1724054288
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:298457876]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "aa  aaa",
+				"time": 1655537477
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:308816033]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "naxeron",
+				"time": 1633767660
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:310771668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lazer",
+				"time": 1772301523
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:313157011]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "JohnnyJohnster",
+				"time": 1761536086
+			},
+			"proof": [
+				"RGL Ban: Alt Account<br/>Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:316449876]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "goose",
+				"time": 1623226884
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:320164059]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PhoenixAceVFX",
+				"time": 1631263711
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:320574411]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "flare8",
+				"time": 1684821623
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:322235919]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W",
+				"time": 1763343764
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:325963285]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "velvet",
+				"time": 1729733102
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:331804838]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Velvet",
+				"time": 1724054446
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:334863995]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kaley_",
+				"time": 1567718678
+			},
+			"proof": [
+				"RGL Ban: Cheating on Alt Account"
+			],
+			"steamid": "[U:1:337334537]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "maL Bolin",
+				"time": 1572752658
+			},
+			"proof": [
+				"RGL Ban: Lifetime ban: Cheating during RGL-Scrim / Alt Account (Second ban for cheating)"
+			],
+			"steamid": "[U:1:340822405]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dope",
+				"time": 1567144844
+			},
+			"proof": [
+				"RGL Ban: Cheating again after ban. Using racist slurs on the RGL discord server."
+			],
+			"steamid": "[U:1:342506056]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "s0yi",
+				"time": 1667722145
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:344259748]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Amushi",
+				"time": 1655537563
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:345206133]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "catlol",
+				"time": 1748884611
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:347892264]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sampha",
+				"time": 1711565570
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:349596300]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Malizz",
+				"time": 1773785379
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:350184216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr.Secret",
+				"time": 1631263633
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:351256914]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "REPROTECHNIKS",
+				"time": 1667722000
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:353650108]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Soy 3",
+				"time": 1561772686
+			},
+			"proof": [
+				"RGL Ban: Cheating in matches."
+			],
+			"steamid": "[U:1:356847451]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gdl1ke",
+				"time": 1724226521
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:357111431]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "josh",
+				"time": 1591068900
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:363869631]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nutmeg",
+				"time": 1518892271
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match"
+			],
+			"steamid": "[U:1:368135848]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hycz",
+				"time": 1745829144
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:371148479]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Good Vibe Gaming",
+				"time": 1518892002
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match on an alias"
+			],
+			"steamid": "[U:1:371647275]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "effex",
+				"time": 1645058348
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:374080169]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Rebecca",
+				"time": 1724226396
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:375639964]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bugged",
+				"time": 1763239863
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:380501652]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Raptohr",
+				"time": 1588634683
+			},
+			"proof": [
+				"RGL Ban: Player has been caught cheating twice on a RGL platform."
+			],
+			"steamid": "[U:1:381188045]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ragz",
+				"time": 1724053707
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:383388538]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "norfnorf",
+				"time": 1518892510
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match, Ban Evasion on Alias (2)"
+			],
+			"steamid": "[U:1:385991169]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kuzya",
+				"time": 1724054235
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:387974994]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "3rem",
+				"time": 1769572969
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:387986637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "red",
+				"time": 1572812093
+			},
+			"proof": [
+				"RGL Ban: Cheating in RGL-Scrim"
+			],
+			"steamid": "[U:1:391088436]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "clem",
+				"time": 1632558933
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:392362956]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "socolin",
+				"time": 1667721620
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:393829818]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ricky",
+				"time": 1670272372
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:395442481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Larel",
+				"time": 1655537395
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:395752926]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tengerimajomrajong.24",
+				"time": 1698390146
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:399239913]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PaLi",
+				"time": 1590968358
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:400953397]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "chill",
+				"time": 1644575935
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:402403590]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The hood",
+				"time": 1569022911
+			},
+			"proof": [
+				"RGL Ban: Alt account / Cheating"
+			],
+			"steamid": "[U:1:407906791]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Interracial gay couple",
+				"time": 1593659160
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:408861410]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "me  you",
+				"time": 1518892530
+			},
+			"proof": [
+				"RGL Ban: UGC: \tCheating in a match"
+			],
+			"steamid": "[U:1:411829789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FortyTwo",
+				"time": 1611789261
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:412199207]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "suggar daddy",
+				"time": 1724053879
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating and Ban Evasion Ban"
+			],
+			"steamid": "[U:1:415693023]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Ativillu",
+				"time": 1683790592
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:421576166]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sam",
+				"time": 1641543474
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense (06/25/2022 - reapplied due to league ban evasion)"
+			],
+			"steamid": "[U:1:422423186]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tempest",
+				"time": 1633767532
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:424080329]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NixTag",
+				"time": 1613798142
+			},
+			"proof": [
+				"RGL Ban: Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:425429791]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yaxeh",
+				"time": 1724054378
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:427389270]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "drunk@brunch",
+				"time": 1724054413
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:429586564]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yam",
+				"time": 1644657676
+			},
+			"proof": [
+				"RGL Ban: Cheating - Second Offense"
+			],
+			"steamid": "[U:1:434325074]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I Don't Quack Under Pressure",
+				"time": 1518892448
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match, Outside of match cheating"
+			],
+			"steamid": "[U:1:434818051]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "soda",
+				"time": 1740473740
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:437120762]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "misty",
+				"time": 1775927547
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:437494836]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "renton",
+				"time": 1600626678
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:437613693]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Stephen Curry",
+				"time": 1601142523
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:437658861]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "awp-_-god",
+				"time": 1632558985
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:440646611]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "phunny",
+				"time": 1749360319
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:444402165]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sipmycola",
+				"time": 1711089120
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:445526484]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "wisegenie",
+				"time": 1724053374
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:445703239]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "May",
+				"time": 1576003184
+			},
+			"proof": [
+				"RGL Ban: Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:448756760]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GRIT Phantom.exo",
+				"time": 1567109354
+			},
+			"proof": [
+				"RGL Ban: Cheating in match"
+			],
+			"steamid": "[U:1:449284557]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Snowy",
+				"time": 1518892476
+			},
+			"proof": [
+				"RGL Ban: UGC: Cheating in a match"
+			],
+			"steamid": "[U:1:451782661]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xyso",
+				"time": 1643281213
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:456262172]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Piffy",
+				"time": 1655537509
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:463826808]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ryry",
+				"time": 1566415331
+			},
+			"proof": [
+				"RGL Ban: Mirror ETF2L Ban for Cheating: <a target=\"_blank\" href=\"http://etf2l.org/forum/user/91024/\">http://etf2l.org/forum/user/91024/</a>"
+			],
+			"steamid": "[U:1:464578350]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": " Mara-chan ",
+				"time": 1567720411
+			},
+			"proof": [
+				"RGL Ban: Alt account / cheating"
+			],
+			"steamid": "[U:1:472914054]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Zil4r",
+				"time": 1698390023
+			},
+			"proof": [
+				"RGL Ban: - Registering an alternate account in RGL.</br>\r\n- Cheating - First Offense"
+			],
+			"steamid": "[U:1:482385112]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Avenue",
+				"time": 1755815790
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:489408108]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mr. Generic Coding",
+				"time": 1780865432
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:743845564]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Doggie",
+				"time": 1785695366
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:795744962]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Xarlon",
+				"time": 1724226474
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - Second Offense"
+			],
+			"steamid": "[U:1:838576271]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "N E C K",
+				"time": 1658355688
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:841211576]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ruka",
+				"time": 1743237406
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense. Distribution of Cheats - 2nd Offense."
+			],
+			"steamid": "[U:1:841915123]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fidus",
+				"time": 1710292228
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:843469634]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "yarn",
+				"time": 1608084679
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:845973171]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GOTTARUN",
+				"time": 1724226582
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:853004283]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sen",
+				"time": 1641543871
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:853248191]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "PHD IN $TAVAGERY",
+				"time": 1724053425
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:855391905]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "me cool u noob",
+				"time": 1601692272
+			},
+			"proof": [
+				"RGL Ban: Ban evasion on an alternate account, while their main account is currently banned.<br/><br/>Excessive toxicity, homophobic and transphobic comments, death threats, and racial slurs during scrims. This occured in 3 separate occasions.<br/><br/>This is a minimum sentence of 2-years after their cheating ban has expired. After the minimum period has elapsed, the player can appeal to have their ban lifted, provided they can show that they've changed as a player and how they interact in the community."
+			],
+			"steamid": "[U:1:856602810]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hide on bush",
+				"time": 1748884925
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:867002822]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "snarpii",
+				"time": 1633767366
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:867637482]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mai.",
+				"time": 1781311162
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:874295988]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "el scorcho",
+				"time": 1667722050
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:879347135]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nq.noah",
+				"time": 1739868027
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:879793203]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "they gone sentence you",
+				"time": 1712990724
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:882010972]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "aviator",
+				"time": 1746588466
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offense"
+			],
+			"steamid": "[U:1:886614725]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Chloe",
+				"time": 1743150975
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:887585881]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "flashinghealthbar",
+				"time": 1549838144
+			},
+			"proof": [
+				"RGL Ban: Cheating in match"
+			],
+			"steamid": "[U:1:888986768]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kaley_",
+				"time": 1567720374
+			},
+			"proof": [
+				"RGL Ban: Alt account / cheating"
+			],
+			"steamid": "[U:1:896092286]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "alert.amber",
+				"time": 1712623076
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:903668770]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Dust.",
+				"time": 1631059626
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:903893655]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eddie",
+				"time": 1743237182
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:908334759]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Raven",
+				"time": 1726188438
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:909614674]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "krp",
+				"time": 1786398116
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:912759828]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "s0ha.",
+				"time": 1724053946
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:915315531]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Whizud",
+				"time": 1763941434
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:920811719]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[1R#] Blaze tftrade.ru",
+				"time": 1724226358
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:921493372]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Zuz",
+				"time": 1614397469
+			},
+			"proof": [
+				"RGL Ban: Cheating - 1st Offense (Reapplied due to league ban evasion)"
+			],
+			"steamid": "[U:1:928246132]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "000",
+				"time": 1743496491
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:928710529]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ".dedk.",
+				"time": 1631263703
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:932612369]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "soul",
+				"time": 1607652771
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:946316328]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "adam",
+				"time": 1724054548
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:947132758]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jasylvio",
+				"time": 1633767707
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:977912796]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blink",
+				"time": 1601142522
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:978157383]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fuck.",
+				"time": 1667722216
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:992074912]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NosFeraS",
+				"time": 1767496354
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:998163475]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fem",
+				"time": 1724544870
+			},
+			"proof": [
+				"RGL Ban: Cheating - First and Second Offense"
+			],
+			"steamid": "[U:1:1008283295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Digget time baby",
+				"time": 1567654254
+			},
+			"proof": [
+				"RGL Ban: Alt Account / Cheating"
+			],
+			"steamid": "[U:1:1009693488]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cheddabob",
+				"time": 1756286593
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1032994220]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TheFlandMan",
+				"time": 1588634731
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:1038206475]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ImperatorTF",
+				"time": 1667256135
+			},
+			"proof": [
+				"RGL Ban: Cheating - 2nd Offense"
+			],
+			"steamid": "[U:1:1049175406]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mossy",
+				"time": 1750982652
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1051130653]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pNg",
+				"time": 1658049564
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1057637851]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Daniel",
+				"time": 1667722034
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1070948256]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Big Eye Guy",
+				"time": 1769657974
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1073954360]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Shima",
+				"time": 1737104950
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1082204518]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ten armed guards in the yard",
+				"time": 1712990706
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1082793560]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tired",
+				"time": 1603594008
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:1089423818]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jeremy",
+				"time": 1623572054
+			},
+			"proof": [
+				"RGL Ban: 06/13/21 - 6/13/22 - Cheating 1st Offense (Reapplied due to League Ban Evasion offense)<br/>06/13/22 - 12/13/22 - Alternate Account<br/>12/13/22 - 06/13/23 - League ban evasion"
+			],
+			"steamid": "[U:1:1092201019]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Orso",
+				"time": 1632558748
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:1104056203]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "heavenly",
+				"time": 1589732671
+			},
+			"proof": [
+				"RGL Ban: Use of an alternate account - First Offense</br>\r\nCheating - First Offense"
+			],
+			"steamid": "[U:1:1109454221]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cairo",
+				"time": 1713254355
+			},
+			"proof": [
+				"RGL Ban: Cheating - First and Second Offense"
+			],
+			"steamid": "[U:1:1114288097]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Judy",
+				"time": 1724053619
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1122167350]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Devil Krudz",
+				"time": 1604069413
+			},
+			"proof": [
+				"RGL Ban: Cheating"
+			],
+			"steamid": "[U:1:1123791834]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "1900",
+				"time": 1707876200
+			},
+			"proof": [
+				"RGL Ban: - Continued violation of [1004.4.1] - Permanently banned players in a scrimmage to enable permanently banned players to harass players during scrims.\r\n</br></br>\r\n- Cheating - Second Offense"
+			],
+			"steamid": "[U:1:1124194565]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bootleg elite machine",
+				"time": 1667721979
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1127291858]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "prada",
+				"time": 1667721822
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1133268588]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HR|Spiffy",
+				"time": 1642972693
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1134334977]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Vermin",
+				"time": 1704567212
+			},
+			"proof": [
+				"RGL Ban: Cheating - Second Offense"
+			],
+			"steamid": "[U:1:1134529818]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cuppy Cat",
+				"time": 1632559019
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:1135236007]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "0gpm",
+				"time": 1667721744
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1140570567]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "creamhole",
+				"time": 1631263726
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating - First Offense"
+			],
+			"steamid": "[U:1:1144826436]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Unknown",
+				"time": 1724314319
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1147931693]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Peter",
+				"time": 1718347348
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1148408360]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Roll",
+				"time": 1730102877
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense. Distribution of Cheats. - 2nd Offense."
+			],
+			"steamid": "[U:1:1150627460]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shaaden MGE",
+				"time": 1641543948
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1160553481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "pov",
+				"time": 1641201980
+			},
+			"proof": [
+				"RGL Ban: New account, old account: <a href=\"https://rgl.gg/Public/PlayerProfile?p=76561198135763017\">https://rgl.gg/Public/PlayerProfile?p=76561198135763017</a>\r\n</br></br>\r\nPrevious discipline history:\r\nCheating (First Offense)"
+			],
+			"steamid": "[U:1:1161366408]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gxnjo",
+				"time": 1749363093
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1162988647]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DANg",
+				"time": 1712596841
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1168538915]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199138735421",
+				"time": 1724226608
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1178469693]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "copebara",
+				"time": 1724053471
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1191896633]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ssg.wav",
+				"time": 1724054490
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating and Ban Evasion Ban"
+			],
+			"steamid": "[U:1:1196658153]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sticky bomb boy",
+				"time": 1667722087
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1207800146]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pfffffft",
+				"time": 1726804435
+			},
+			"proof": [
+				"RGL Ban: Cheating - First and Second Offense"
+			],
+			"steamid": "[U:1:1223366491]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "clamjam",
+				"time": 1634894206
+			},
+			"proof": [
+				"RGL Ban: UGC Mirror Cheating - 1st Offense"
+			],
+			"steamid": "[U:1:1229881235]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nexus",
+				"time": 1658301235
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1245869962]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "suzuya",
+				"time": 1680680388
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1247725764]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "aimcancel",
+				"time": 1755156973
+			},
+			"proof": [
+				"RGL Ban: Alt account and Cheating - First Offense"
+			],
+			"steamid": "[U:1:1256349245]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fluf",
+				"time": 1784669762
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1271543379]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Delusional",
+				"time": 1726989707
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1271589913]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Erotic Barber",
+				"time": 1726989814
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1274931746]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "accuse me of cheating",
+				"time": 1724054587
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1374614469]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lorax",
+				"time": 1705912493
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense. Distribution of Cheats - 2nd Offense."
+			],
+			"steamid": "[U:1:1390255257]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "adlet-",
+				"time": 1740014526
+			},
+			"proof": [
+				"RGL Ban: Cheating - First  Offense"
+			],
+			"steamid": "[U:1:1475626811]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "jiraf",
+				"time": 1707596542
+			},
+			"proof": [
+				"RGL Ban: New account, old account: <a href=\"https://rgl.gg/Public/PlayerProfile?p=76561199190146963\">https://rgl.gg/Public/PlayerProfile?p=76561199190146963</a>\r\n</br></br>\r\nPrevious discipline history on old account: Cheating (First Offense)"
+			],
+			"steamid": "[U:1:1475733652]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ellie.",
+				"time": 1726989788
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1481437323]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LAbomb",
+				"time": 1750889885
+			},
+			"proof": [
+				"RGL Ban: Alt Account<br/>Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1521743206]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "armour",
+				"time": 1749358314
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1525983241]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GrayyerVT",
+				"time": 1746979115
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1526203250]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cloudnz",
+				"time": 1748404479
+			},
+			"proof": [
+				"RGL Ban: ETF2L Mirror Cheating Ban - First Offense"
+			],
+			"steamid": "[U:1:1550199049]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SaTaN",
+				"time": 1743150987
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1585884620]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Synpasase",
+				"time": 1705823293
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1600631080]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Virtue",
+				"time": 1757272164
+			},
+			"proof": [
+				"RGL Ban: Alt Account<br/>Cheating - First Offense"
+			],
+			"steamid": "[U:1:1604499919]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "grizz",
+				"time": 1734942147
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1614529332]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "peats",
+				"time": 1741835163
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1690701685]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Generational",
+				"time": 1748746228
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1714501545]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LS3 CAM",
+				"time": 1738315433
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1836493616]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nezia_k",
+				"time": 1740604995
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1841289930]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "uber",
+				"time": 1746334721
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1861747892]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "no name",
+				"time": 1763941639
+			},
+			"proof": [
+				"RGL Ban: Cheating - First Offense"
+			],
+			"steamid": "[U:1:1862141884]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Wunjo",
+				"time": 1742200275
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1869725134]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "XxEpicGodGamerxX",
+				"time": 1774199365
+			},
+			"proof": [
+				"RGL Ban: Cheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1878411111]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "QEEN",
+				"time": 1748393573
+			},
+			"proof": [
+				"RGL Ban: Alt Account <br/>\r\nCheating - Multiple Offenses"
+			],
+			"steamid": "[U:1:1895043878]"
+		}
+	]
+}
