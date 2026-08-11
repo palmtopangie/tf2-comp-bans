@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timezone
 
 # Source URL for your raw ETF2L bans
-SOURCE_URL = "https://raw.githubusercontent.com/palmtopangie/TF2-comp-bans/refs/heads/main/bans/etf2l_cheating_bans.json"
+SOURCE_URL = "https://raw.githubusercontent.com/palmtopangie/tf2-comp-bans/refs/heads/main/bans/etf2l_cheating_bans.json"
 OUTPUT_FILE = "playerlist.etf2lbans.json"
 
 BASE_STEAM64 = 76561197960265728
