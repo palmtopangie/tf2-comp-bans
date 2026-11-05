@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 
 # API and Output configuration
 API_URL = "https://api.rgl.gg/v0/bans/paged"
-OUTPUT_FILE = "playerlist.rglbans.json"
+OUTPUT_FILE = "bans/playerlist.rglbans.json"
 BASE_STEAM64 = 76561197960265728
 
 def steam64_to_steam3(steam64_str):

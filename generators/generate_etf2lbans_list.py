@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 
 # Configuration
 BASE_URL = "https://etf2l.org/etf2l/bans/{}/"
-OUTPUT_FILE = "playerlist.etf2lbans.json"
+OUTPUT_FILE = "bans/playerlist.etf2lbans.json"
 BASE_STEAM64 = 76561197960265728
 
 headers = {
