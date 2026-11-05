@@ -1,11 +1,11 @@
 import requests
 import json
+import time
 from datetime import datetime, timezone
 
-# Source URL for your raw RGL bans
-SOURCE_URL = "https://raw.githubusercontent.com/palmtopangie/tf2-comp-bans/refs/heads/main/bans/rgl_cheating_bans.json"
+# API and Output configuration
+API_URL = "https://api.rgl.gg/v0/bans/paged"
 OUTPUT_FILE = "playerlist.rglbans.json"
-
 BASE_STEAM64 = 76561197960265728
 
 def steam64_to_steam3(steam64_str):
@@ -19,21 +19,57 @@ def steam64_to_steam3(steam64_str):
 def iso_to_unix(iso_str):
     """Converts an ISO 8601 string to a Unix integer timestamp."""
     try:
-        # Handles timestamps like '2026-08-10T22:44:29.783Z'
         dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
         return int(dt.timestamp())
     except (ValueError, TypeError, AttributeError):
         return int(datetime.now(timezone.utc).timestamp())
 
-print("Fetching RGL bans from GitHub...")
-response = requests.get(SOURCE_URL)
+print("Fetching RGL bans from API...")
 
-if response.status_code != 200:
-    print(f"Failed to fetch source file. Status code: {response.status_code}")
-    exit(1)
+all_cheating_bans = []
+page = 1
+page_size = 100
 
-raw_bans = response.json()
+while True:
+    params = {
+        "take": page_size,
+        "skip": (page - 1) * page_size
+    }
+    
+    response = requests.get(API_URL, params=params)
+    
+    # Handle rate limiting
+    if response.status_code == 429:
+        print(f"Rate limited on page {page}, delaying...")
+        time.sleep(2)
+        continue
+        
+    if response.status_code != 200:
+        print(f"Failed to fetch page {page}. Status code: {response.status_code}")
+        break
+        
+    data = response.json()
+    bans = data if isinstance(data, list) else data.get("items", [])
 
+    if not bans:
+        break
+        
+    # Filter for cheating bans
+    cheating_bans = [
+        ban for ban in bans 
+        if ban.get("reason") and "cheating" in ban.get("reason").lower()
+    ]
+    
+    all_cheating_bans.extend(cheating_bans)
+    print(f"Fetched page {page} ({len(bans)} records scanned, {len(cheating_bans)} matched)...")
+
+    if len(bans) < page_size:
+        break
+        
+    page += 1
+    time.sleep(0.5)
+
+# Initialize TF2 Bot Detector structure
 tfbd_list = {
     "$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
     "file_info": {
@@ -47,7 +83,7 @@ tfbd_list = {
     "players": []
 }
 
-for item in raw_bans:
+for item in all_cheating_bans:
     steam64 = item.get("steamId")
     steam3 = steam64_to_steam3(steam64)
     
